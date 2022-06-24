@@ -1,0 +1,7 @@
+C:\Users\micha\OneDrive\Documents\My Code\Dotnet-Portfolio\bin\Debug\net6.0\publish\Dotnet-Portfolio.exe
+C:\Users\micha\OneDrive\Documents\My Code\Dotnet-Portfolio\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\micha\OneDrive\Documents\My Code\Dotnet-Portfolio\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\micha\OneDrive\Documents\My Code\Dotnet-Portfolio\bin\Debug\net6.0\publish\Dotnet-Portfolio.dll
+C:\Users\micha\OneDrive\Documents\My Code\Dotnet-Portfolio\bin\Debug\net6.0\publish\Dotnet-Portfolio.deps.json
+C:\Users\micha\OneDrive\Documents\My Code\Dotnet-Portfolio\bin\Debug\net6.0\publish\Dotnet-Portfolio.runtimeconfig.json
+C:\Users\micha\OneDrive\Documents\My Code\Dotnet-Portfolio\bin\Debug\net6.0\publish\Dotnet-Portfolio.pdb
