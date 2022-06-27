@@ -1,4 +1,4 @@
-version: '3.7'
+version: '3.3'
 services:
   portfolio-client:
     build:
@@ -10,6 +10,7 @@ services:
       - "6005:6005"
     networks:
       - app-network
+    restart: unless-stopped
 networks:
   app-network:
     external: true
