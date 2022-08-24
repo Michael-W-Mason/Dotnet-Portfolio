@@ -7,7 +7,7 @@ services:
     image: michaelmason1998/portfolio_client
     container_name: Portfolio-App-Client
     ports:
-      - "6005:6005"
+      - "5000:5000"
     networks:
       - app-network
     restart: unless-stopped
