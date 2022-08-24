@@ -6,7 +6,6 @@
 }
 
 .hero{
-    background-color: whitesmoke;
     background-image: url("../img/Background-Crop-Resize.JPG");
     background-size: cover;
     background-repeat: no-repeat;
@@ -17,21 +16,15 @@
 }
 
 .aboutme{
-    background-color: #191919;
-    color: aliceblue;
+    color: white;
     padding: 3rem;
-}
-
-#readmore{
-    position: absolute;
-    list-style-type: none;
-    bottom: 0;
+    margin-bottom: 12rem;
 }
 
 .projects{
-    background-color: whitesmoke;
     color: black;
     padding: 1rem;
+    margin-bottom: 12rem;
 }
 
 .github{
@@ -41,7 +34,10 @@
 }
 
 .contact{
-    background-color: #282828;
-    color: aliceblue;
-    padding: 2rem;
+    color: whitesmoke;
+    padding: 1rem;
+}
+
+#fp-nav ul li a span, .fp-slidesNav ul li a span {
+    
 }
